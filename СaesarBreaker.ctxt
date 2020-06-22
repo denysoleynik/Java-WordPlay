@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=\u0421aesarBreaker
+comment0.text=\n\ Write\ a\ description\ of\ class\ DecryptbyLetter\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=message\ start
+comment1.target=java.lang.String\ halfOfString(java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ testDecryptTwoKeys()
+comment2.params=message
+comment2.target=int\ getkey(java.lang.String)
+comment3.params=encrypted
+comment3.target=java.lang.String\ decryptTwoKeys(java.lang.String)
+comment4.params=message
+comment4.target=int[]\ counts(java.lang.String)
+comment5.params=vals
+comment5.target=int\ findkey(int[])
+comment6.params=message\ key
+comment6.target=java.lang.String\ decrypt(java.lang.String,\ int)
+comment7.params=message\ key1\ key2
+comment7.target=java.lang.String\ decrypt2(java.lang.String,\ int,\ int)
+comment8.params=
+comment8.target=void\ testDecrypt()
+comment9.params=
+comment9.target=void\ testhalfOfString()
+numComments=11
